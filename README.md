@@ -7,9 +7,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring Indian mythology and folklore, and I'm working on integrating heritage and culture with modern tech through 3D and AI projects!
 - ### 🛠 Tech Stack
-### 🛠 Tech Stack
 
-### 🛠 Tech Stack
 
 <table>
   <tr>
