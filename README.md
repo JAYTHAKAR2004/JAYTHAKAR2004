@@ -1,11 +1,11 @@
 # 👋 Hi, I’m JAY THAKAR
 
-- 👀 I’m interested in web development, AI, and immersive storytelling technologies.
-- 🌱 I’m currently learning advanced JavaScript, 3D web technologies, and AI-based solutions.
+- 👀 I’m interested in Android development,firebase AI, and immersive storytelling technologies.
+- 🌱 I’m currently learning Android App development new features ,Data analysis, 3D web technologies, and AI-based solutions.
 - 💞️ I’m looking to collaborate on projects related to e-commerce, AI chatbots, and virtual storytelling hubs.
 - 📫 How to reach me: [jaythakar22012004@gmail.com] or [LinkedIn](https://www.linkedin.com/in/jay-thakar-3a19a0192?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring Indian mythology and folklore, and I'm working on integrating heritage and culture with modern tech through 3D and AI projects!
+- ⚡ Fun fact: I love exploring Indian mythology and folklore, and I'm working on integrating heritage and culture with modern tech through 3D and AI projects!--> ANCIENT ECHOES
 - ### 🛠 Tech Stack
 
 
