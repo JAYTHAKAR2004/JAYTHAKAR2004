@@ -122,6 +122,11 @@ This section showcases my offer letter and certificates of completion from my on
 ---
 
 
+
+---
+
+
+
 ## 📧 Contact
 
 If you have any questions or want to discuss the certificates further, feel free to reach out:
