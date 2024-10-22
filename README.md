@@ -49,81 +49,9 @@
   </tr>
 </table>
 
-# 🎓 My Certificates
-
-This repository showcases my professional and academic achievements through a collection of certificates. Below, you can view each certificate directly. Click on the images to see them in full size.
-
-## 📜 Certificates Overview
-
-The certificates included in this repository reflect my expertise in:
-
-- Web Development
-- Android Development
-- Programming Languages (Java, Python, C, C++, etc.)
-- Frameworks and Libraries (Pandas, Numpy, etc.)
-- Version Control (Git)
-
----
----
-
-## 📂 Certificates
-
-1. ![Certificate 1](./MY%20CERTIFICATES/IMG-20241020-WA0011.jpg)
-2. ![Certificate 2](./MY%20CERTIFICATES/IMG-20241020-WA0012.jpg)
-3. ![Certificate 3](./MY%20CERTIFICATES/IMG-20241020-WA0013.jpg)
-4. ![Certificate 4](./MY%20CERTIFICATES/IMG-20241020-WA0014.jpg)
-5. ![Certificate 5](./MY%20CERTIFICATES/IMG-20241020-WA0015.jpg)
-6. ![Certificate 6](./MY%20CERTIFICATES/IMG-20241020-WA0016.jpg)
-7. ![Certificate 7](./MY%20CERTIFICATES/IMG-20241020-WA0017.jpg)
-8. ![Certificate 8](./MY%20CERTIFICATES/IMG-20241020-WA0018.jpg)
-9. ![Certificate 9](./MY%20CERTIFICATES/IMG-20241020-WA0019.jpg)
-10. ![Certificate 10](./MY%20CERTIFICATES/IMG-20241020-WA0020.jpg)
-11. ![Certificate 11](./MY%20CERTIFICATES/IMG-20241020-WA0021.jpg)
-12. ![Certificate 12](./MY%20CERTIFICATES/IMG-20241020-WA0022.jpg)
-13. ![Certificate 13](./MY%20CERTIFICATES/IMG-20241020-WA0023.jpg)
-14. ![Certificate 14](./MY%20CERTIFICATES/IMG-20241020-WA0024.jpg)
-15. ![Certificate 15](./MY%20CERTIFICATES/IMG-20241020-WA0025.jpg)
-16. ![Certificate 16](./MY%20CERTIFICATES/IMG-20241020-WA0026.jpg)
-17. ![Certificate 17](./MY%20CERTIFICATES/IMG-20241020-WA0027.jpg)
-18. ![Certificate 18](./MY%20CERTIFICATES/IMG-20241020-WA0028.jpg)
-19. ![Certificate 19](./MY%20CERTIFICATES/IMG-20241020-WA0029.jpg)
-
-
----
-
-## 📧 Contact
-
-If you have any questions or want to discuss the certificates further, feel free to reach out:
-
-- **GitHub**: [jaythakar2004](https://github.com/jaythakar2004)
-- **Email**: [jaythakar@example.com](mailto:jaythakar@example.com)
-
----
-
-## ⚖️ License
-
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-
-## 🎓 Offer Letter & Internship Completion Certificates
-
-This section showcases my offer letter and certificates of completion from my online internship. These documents represent my dedication to professional development and the skills I've acquired during my training.
-
-1. ![Offer Letter](./MY%20CERTIFICATES/IMG-20241020-WA0030.jpg) - Offer Letter
-2. ![Internship Completion Certificate](./MY%20CERTIFICATES/IMG-20241020-WA0031.jpg) - Certification of Completion
-3. ![Internship Completion Certificate](./MY%20CERTIFICATES/IMG-20241020-WA0032.jpg)
-4. ![Internship Completion Certificate](./MY%20CERTIFICATES/IMG-20241020-WA0033.jpg)
-5. ![Internship Completion Certificate](./MY%20CERTIFICATES/IMG-20241020-WA0034.jpg)
-6. ![Internship Completion Certificate](./MY%20CERTIFICATES/IMG-20241020-WA0035.jpg)
-7. ![Internship Completion Certificate](./MY%20CERTIFICATES/IMG-20241020-WA0036.jpg)
-8. ![Internship Completion Certificate](./MY%20CERTIFICATES/IMG-20241020-WA0037.jpg)
-9. ![Internship Completion Certificate](./MY%20CERTIFICATES/IMG-20241020-WA0038.jpg)
-10. ![Internship Completion Certificate](./MY%20CERTIFICATES/IMG-20241020-WA0039.jpg)
-
----
 
 
 
----
 
 
 
