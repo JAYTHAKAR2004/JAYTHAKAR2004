@@ -60,7 +60,7 @@
 If you have any questions or want to discuss the certificates further, feel free to reach out:
 
 - **GitHub**: [jaythakar2004](https://github.com/jaythakar2004)
-- **Email**: [jaythakar@example.com](mailto:jaythakar22012004@gmail.com)
+- **Email**: [jaythakar22012004@gmail.com](mailto:jaythakar22012004@gmail.com)
 
 ---
 
