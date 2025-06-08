@@ -42,12 +42,16 @@
   <a href="https://leetcode.com/jaythakar2004/">
     <img src="https://github.com/JAYTHAKAR2004/JAYTHAKAR2004/blob/main/LEETCODE%20AND%20GFG%20BADGES/Introduction_to_Pandas.gif" height="100" alt="LeetCode Badge"/>
   </a>
+  <a href="https://leetcode.com/jaythakar2004/">
+    <img src="https://github.com/JAYTHAKAR2004/JAYTHAKAR2004/blob/main/LEETCODE%20AND%20GFG%20BADGES/100.gif" height="100" alt="LeetCode Badge"/>
+  </a>
+  <a href="https://leetcode.com/jaythakar2004/">
+    <img src="https://github.com/JAYTHAKAR2004/JAYTHAKAR2004/blob/main/LEETCODE%20AND%20GFG%20BADGES/leetcode coin 1.gif" height="100" alt="LeetCode Badge"/>
+  </a>
   <a href="https://auth.geeksforgeeks.org/user/jaythakar2004">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWM5ZGQ3NjQ5NGNiZGU5NTU0ODliMWJlYjkzZDYxMmJhODc0NzdhNCZjdD1n/rWvO0a5V1V9BLzRpvl/giphy.gif" height="100" alt="GFG Badge"/>
+    <img src="https://github.com/JAYTHAKAR2004/JAYTHAKAR2004/blob/main/LEETCODE%20AND%20GFG%20BADGES/coin-GFG-GIF_2(1)-1667467528 (33).gif" height="100" alt="GFG Badge"/>
   </a>
-  <a href="https://www.hackerrank.com/jaythakar22012004">
-    <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" height="40" alt="HackerRank Badge"/>
-  </a>
+  
 </p>
 
 ---
