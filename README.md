@@ -28,6 +28,8 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-JAYTHAKAR-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/jaythakar2004/)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-JAYTHAKAR-brightgreen?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/jaythakar2004)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-JAYTHAKAR-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/jaythakar22012004)
+[![CodeChef](https://img.shields.io/badge/CodeChef-jaythakar22-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jaythakar22)
+
 
 ---
 ## 🎖️ Coding Platform Badges (with GIFs)
