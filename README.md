@@ -53,6 +53,9 @@
   <a href="https://auth.geeksforgeeks.org/user/jaythakar2004">
     <img src="https://github.com/JAYTHAKAR2004/JAYTHAKAR2004/blob/main/LEETCODE%20AND%20GFG%20BADGES/coin-GFG-GIF_2(1)-1667467528 (33).gif" height="100" alt="GFG Badge"/>
   </a>
+   <a href="https://auth.geeksforgeeks.org/user/jaythakar2004">
+    <img src="https://github.com/JAYTHAKAR2004/JAYTHAKAR2004/blob/main/LEETCODE%20AND%20GFG%20BADGES/LeetCode_75.gif" height="100" alt="LeetCode Badge"/>
+  </a>
   
 </p>
 
