@@ -56,6 +56,10 @@
    <a href="https://auth.geeksforgeeks.org/user/jaythakar2004">
     <img src="https://github.com/JAYTHAKAR2004/JAYTHAKAR2004/blob/main/LEETCODE%20AND%20GFG%20BADGES/LeetCode_75.gif" height="100" alt="LeetCode Badge"/>
   </a>
+   <a href="https://leetcode.com/jaythakar2004/">
+    <img src="https://github.com/JAYTHAKAR2004/JAYTHAKAR2004/blob/main/LEETCODE%20AND%20GFG%20BADGES/202507.gif" height="100" alt="LeetCode Badge"/>
+  </a>
+  
   
 </p>
 
